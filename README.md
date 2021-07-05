@@ -3,8 +3,8 @@
 # Teste prático Programa de Estágio em Desenvolvimento Backend Grupo Nexxees.
 # Especificações
 
--Utilizando a linguagem de programação Python versão 3.6.
--Desenvolvida uma API Rest em Python e crie um projeto django com os Serializers, Models e Views.
+<p>-Utilizando a linguagem de programação Python versão 3.6.</p>
+<p>-Desenvolvida uma API Rest em Python e crie um projeto django com os Serializers, Models e Views.</p>
 
 # Execução
 
