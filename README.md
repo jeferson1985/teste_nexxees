@@ -15,4 +15,8 @@
 <p>Se ocorrer erro basta abrir o powershell como administrador e executar o seguinte comando Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned</p>
 <p>Depois basta rodar novamente o comndo ./venv/Script/Activate.ps1<p>
 <p>Em seguida foi instalado o Django com o comando pip install django</p>
-
+<p>Para rodar o projeto basta clonar repositório do github.com</p>
+<p>Em seguida rodar o comando python manage.py runserver</p>
+<p>Rotas localhost:8000/admin/livros/update/</p>
+<p>Rotas localhost:8000/admin/livros/new/</p>
+<p>Rotas localhost:8000/admin/livros/</p>
